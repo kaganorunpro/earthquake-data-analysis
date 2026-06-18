@@ -19,4 +19,10 @@ This project analyzes earthquake data using Python.
 
 ## Author
 
-Kaan Orun
+Kagan Orun
+
+## Sample Output
+
+The chart below shows earthquake magnitudes for selected cities affected by major earthquakes in Türkiye.
+
+![Earthquake Chart](earthquake_chart.png)
